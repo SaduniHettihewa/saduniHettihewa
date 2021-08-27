@@ -6,5 +6,6 @@ https://hhsnimasha98.medium.com/
 LinkedIn
 https://www.linkedin.com/in/saduni-hettihewa
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saduniHettihewa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saduniHettihewa)](https://github.com/anuraghazra/github-readme-stats)
+
 

@@ -9,7 +9,7 @@ https://www.linkedin.com/in/saduni-hettihewa
  
 💻 Portfolio
 https://sadunihettihewa.github.io/Portfolio/
-💻 hosted webApp
+💻  GitHub hosted webApp
 https://sadunihettihewa.github.io/InfoTech-webApp/#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saduniHettihewa)](https://github.com/anuraghazra/github-readme-stats)  

@@ -8,7 +8,9 @@ https://www.linkedin.com/in/saduni-hettihewa
 
  
 💻 Portfolio
-https://sadunihettihewa.github.io/Portfolio/
+https://sadunihettihewa.github.io/Portfolio/  - html/css
+
+https://sadunihettihewa.github.io/myPortfolio-React/ - React 
 
 💻  GitHub hosted webApp
 https://sadunihettihewa.github.io/InfoTech-webApp/#

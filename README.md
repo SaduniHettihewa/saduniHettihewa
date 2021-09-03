@@ -6,6 +6,7 @@ https://hhsnimasha98.medium.com/
 LinkedIn
 https://www.linkedin.com/in/saduni-hettihewa
 
+![Visitor Count](https://profile-counter.glitch.me/{saduniHettihewa}/count.svg)
  
 💻 Portfolio
 https://sadunihettihewa.github.io/Portfolio/  - html/css

@@ -18,7 +18,7 @@ https://sadunihettihewa.github.io/myPortfolio-React/ - React
 💻  GitHub hosted webApp
 https://sadunihettihewa.github.io/InfoTech-webApp/#
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saduniHettihewa)](https://github.com/anuraghazra/github-readme-stats)  
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saduniHettihewa&theme=radical&show_icons=true)
 
